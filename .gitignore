@@ -29,3 +29,7 @@ Debug/
 Release/
 .DS_Store
 .Trashes
+
+#RocketNet
+Intermediate/
+include/
