@@ -512,7 +512,7 @@
       o Initial (incomplete) support for international character sets
       o New DH_METHOD, DSA_METHOD and enhanced RSA_METHOD
       o Read only memory BIOs and simplified creation function
-      o TLS/SSL protocol bugfixes: Accept TLS 'client hello' in SSL 3.0
+      o TLS/SSL protocol bugfixes: Accept TLS 'client StartHost' in SSL 3.0
         record; allow fragmentation and interleaving of handshake and other
         data
       o TLS/SSL code now "tolerates" MS SGC
